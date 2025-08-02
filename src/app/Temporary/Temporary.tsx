@@ -12,10 +12,10 @@ const Temporary = () => {
                     We are launching soon!
                 </div>
                 <div className="mt-2"> {/* Added margin top for spacing */}
-                    Till then please check out our work <Link className='underline font-semibold' target='blank' href={'https://linktr.ee/codebotix'}>here</Link>
+                    Till then please check out our programs <Link className='underline font-semibold' target='blank' href={'https://online.codebotix.in/'}>here</Link>
                 </div>
                 <div>
-                    Contact us: 7358278116/8122019903
+                    Contact us: 7358278116/8122019903 for demo classes
                 </div>
             </div>
         </div>
