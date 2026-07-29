@@ -15,7 +15,7 @@ const Temporary = () => {
                     Till then please check out our programs <Link className='underline font-semibold' target='blank' href={'https://online.codebotix.in/'}>here</Link>
                 </div>
                 <div>
-                    Contact us for online demo classes: 91503 95889/73582 78116
+                    Contact us for online demo classes: 91503 95889
                 </div>
             </div>
         </div>
